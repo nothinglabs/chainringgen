@@ -9,8 +9,8 @@ bcd = 110;  //bolt circle diameter
 boltHoleDiameter = 10; //seems standard
 internalDiameterOffsetFromHoles = 2.75; //seems typical
 
-ringThickness = 4;  //3.2 measured for 7/8 speed chainring
-toothThickness = 2.2;
+ringThickness = 2.5;  //seems about right
+toothThickness = 2.1; //should be OK for 8/9/10 speed
 toothThinningRadiusInset = 9;
 
 pocketBoundsWidth = 3;
