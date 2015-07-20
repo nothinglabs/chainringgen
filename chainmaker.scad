@@ -9,8 +9,8 @@ bcd = 110;  //bolt circle diameter
 boltHoleDiameter = 10; //seems standard
 internalDiameterOffsetFromHoles = 2.75; //seems typical
 
-ringThickness = 2.5;  //seems about right
-toothThickness = 2.1; //should be OK for 8/9/10 speed
+ringThickness = 2.5;  //seems about right (and is 7075 stock I have..)
+toothThickness = 2.1; //should be OK for 8/9 speed - want thinner for 10
 toothThinningRadiusInset = 9;
 
 pocketBoundsWidth = 3;
