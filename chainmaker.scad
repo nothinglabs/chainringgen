@@ -1,12 +1,12 @@
 //cam options
-makeBoundsForToothCutPocket = "true";
-doProjectionFor2dCam = "true";
+makeBoundsForToothCutPocket = "false";
+doProjectionFor2dCam = "false";
 
 //general chainring options
 numberOfTeeth = 39;
 numberOfBolts = 5;
 bcd = 110;  //bolt circle diameter
-boltHoleDiameter = 10; //seems standard
+boltHoleDiameter = 10.2; //10mm seems standard (a bit bigger to be safe)
 internalDiameterOffsetFromHoles = 2.75; //seems typical
 
 ringThickness = 2.5;  //seems about right (and is 7075 stock I have..)
