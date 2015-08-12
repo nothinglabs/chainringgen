@@ -27,7 +27,7 @@ toothAspectRatio = .9;
 pi = 3.1415;
 
 //openscad resolution
-$fa = 8;
+$fa = 4;
 $fs = 1;
  
 externalDiameter = ((numberOfTeeth * widthPerCog) / pi)  + rollerCenterInsetFromExternalDiameter * 2;
